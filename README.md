@@ -35,3 +35,7 @@ __Homework 1__
 [notebooks/rep-for-kaggle](https://github.com/ialpatov/reporting-forecasting/blob/main/notebooks/rep-for-kaggle.ipynb) - изначальный ноутбук, в котором я работал, его можно запустить на kaggle, но там не импортировался pandasgui
 
 [notebooks/rep-for-local](https://github.com/ialpatov/reporting-forecasting/blob/main/notebooks/rep-for-local.ipynb) - ноутбук, который я сделал локально, чтобы можно было запустить окно с pandasgui (интерактивные графики от Plotly показываются только если запустить файл, картинки из Plotly почему то не скачиваются)
+
+__Homework 2__
+
+[data/data_serialized](https://github.com/ialpatov/reporting-forecasting/blob/main/data/data_serialized.pkl) - подготовленные данные для forecasting
